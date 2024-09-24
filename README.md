@@ -1,7 +1,8 @@
-[![MasterHead](https://i.pinimg.com/564x/3f/f3/38/3ff338fded7cab6c231606b35ebe18ab.jpg)]()
+[![MasterHead](https://i.ibb.co/dDH6Smn/monkey-developer.gif)]()
+
 <h1 align="center">Hi 👋, I'm Akash Patil</h1>
 <h3 align="center">A passionate MEARN stack developer from India</h3>
-<img align="right" alt="bvs" width="400" src="https://i.pinimg.com/564x/99/01/b8/9901b8ae8d7b54b8c1642d048be20a2e.jpg">
+<img align="right" alt="bvs" width="400" src="https://i.ibb.co/MfHYYxw/vecteezy-3d-javascript-logo-design-12697298.png">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashpatil7596&label=Profile%20views&color=0e75b6&style=flat" alt="akashpatil7596" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
