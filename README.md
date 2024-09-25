@@ -1,5 +1,6 @@
-[![MasterHead](https://i.ibb.co/dDH6Smn/monkey-developer.gif)]()
-
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" alt="MasterHead" width="600" />
+</p>
 <h1 align="center">Hi 👋, I'm Akash Patil</h1>
 <h3 align="center">A passionate MEARN stack developer from India</h3>
 <img align="right" alt="bvs" width="400" src="https://i.ibb.co/MfHYYxw/vecteezy-3d-javascript-logo-design-12697298.png">
