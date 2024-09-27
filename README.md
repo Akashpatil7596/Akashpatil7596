@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img.freepik.com/premium-vector/hello-world-is-simple-word-programmer-s-first-programming_48644-298.jpg?w=826" alt="MasterHead" width="auto" height="450px"/>
+  <img src="https://i.ibb.co/VwYdp3x/coding.gif" alt="coding" width="auto" height="400px"/>
 </p>
 <h1 align="center">Hi 👋, I'm Akash Patil</h1>
 <h3 align="center">A passionate MEARN stack developer from India</h3>
